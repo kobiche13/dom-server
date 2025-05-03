@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/nje1hu531pddiidq?svg=true)](https://ci.appveyor.com/project/kobiche13/dom-form)
